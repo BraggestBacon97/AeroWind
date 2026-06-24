@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "power=0": { "model": "windmod:block/anemometer" },
+    "power=1": { "model": "windmod:block/anemometer" },
+    "power=2": { "model": "windmod:block/anemometer" },
+    "power=3": { "model": "windmod:block/anemometer" },
+    "power=4": { "model": "windmod:block/anemometer" },
+    "power=5": { "model": "windmod:block/anemometer" },
+    "power=6": { "model": "windmod:block/anemometer" },
+    "power=7": { "model": "windmod:block/anemometer" },
+    "power=8": { "model": "windmod:block/anemometer" },
+    "power=9": { "model": "windmod:block/anemometer" },
+    "power=10": { "model": "windmod:block/anemometer" },
+    "power=11": { "model": "windmod:block/anemometer" },
+    "power=12": { "model": "windmod:block/anemometer" },
+    "power=13": { "model": "windmod:block/anemometer" },
+    "power=14": { "model": "windmod:block/anemometer" },
+    "power=15": { "model": "windmod:block/anemometer" }
+  }
+}

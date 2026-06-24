@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="aerowind"
+version="1.0.0"
+displayName="Create Wind Physics"
+description='''
+Fügt Wind-Physik und einen Anemometer für Create Aeronautics hinzu.
+'''
